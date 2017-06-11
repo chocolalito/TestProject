@@ -29,7 +29,7 @@
     src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDOzS5Fo0YI96iAuZpmfvMmBOLEvxp-lbk&callback=initMap">
     </script>
     <?php
-      echo "Esta es una línea impresa desde php";
+      echo "Esta es una línea impresa desde php, texto agregado a ésta línea";
     ?>
   </body>
 </html>
